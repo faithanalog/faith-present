@@ -1,16 +1,16 @@
 # Faith's Simple Presentation Generator
 
-This is a simple script to generate slides for a presentation. Each slide is
-a self contained HTML file. Use the keyboard to control the presentation.
+This is a simple script to generate slides for a presentation. Each slide is a
+self contained HTML file. Use the keyboard to control the presentation.
 
 # Installation
 
-Just copy faith-present wherever you want. It's a self-contained shell script,
-so as long as your system has `sh` and `awk` you should be good.
+Just copy `faith-present` wherever you want. It's a self-contained shell
+script, so as long as your system has `sh` and `awk` you should be good.
 
 # Usage
 
-`faith-presentation <presentation> [stylesheet]`
+`faith-present <presentation> [stylesheet]`
 
 `[stylesheet]` may be a path to a CSS file, which is inserted into each slide.
 
